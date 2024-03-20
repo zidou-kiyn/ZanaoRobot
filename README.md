@@ -123,7 +123,7 @@
 ## 准备工具
 
 - **UnpackMiniApp**：对微信小程序进行解密的工具
-- **unveiler**：对解密后的微信小程序进行反编译的工具（注意，这个叫unveiler，是**免费**工具。不叫*unveilr*！！！）
+- **unveilr**：对解密后的微信小程序进行反编译的工具（注意，这个叫unveilr，是**免费**工具。不叫*unveiler*！！！）
 - **微信开发者工具**：调试反编译后的微信小程序的工具（出自微信官方，~以魔法打败魔法！~）
 
 以上工具我已经上传到[ZanaoRobot/resources at main · zidou-kiyn/ZanaoRobot (github.com)](https://github.com/zidou-kiyn/ZanaoRobot/tree/main/resources)中，访问即可下载
